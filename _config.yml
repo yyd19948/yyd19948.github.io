@@ -23,14 +23,14 @@ github_repo: "https://github.com/yyd19948/yyd19948.github.io.git"
 permalink: /:categories/:title/
 plainwhite:
   name: Zard
-  tagline: Developer. Designer
+  tagline: Programmer.
   date_format: "%b %-d, %Y"
   analytics_id: UA-127004425-1
-  disqus_shortname: thelehhman
+  disqus_shortname: Zard
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
+    twitter: https://mobile.twitter.com/jane_zard
     github:  thelehhman
     linkedIn: in/thelehhman
     # rss: rss
