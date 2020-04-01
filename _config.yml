@@ -21,21 +21,21 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yyd19948.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title/
 plainwhite:
-  name: Samarjeet Singh
-  tagline: Developer. Designer
+  name: Zard
+  tagline: Developer. Diary
   date_format: "%b %-d, %Y"
   analytics_id: UA-127004425-1
-  disqus_shortname: thelehhman
+  disqus_shortname: Zard
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: Zard
+    github:  Zard
+    linkedIn: in/Zard
     # rss: rss
 # Build settings
 markdown: kramdown
-remote_theme: thelehhman/plainwhite-jekyll
+remote_theme: Zard/plainwhite-jekyll
 show_excerpts: true
 plugins:
   - jekyll-feed
