@@ -19,23 +19,24 @@ description: >- # this means to ignore newlines until "baseurl:"
   S
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yyd19948.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: "https://github.com/yyd19948/yyd19948.github.io.git" 
 permalink: /:categories/:title/
 plainwhite:
   name: Zard
-  tagline: Developer. Diary
+  tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   analytics_id: UA-127004425-1
-  disqus_shortname: Zard
+  disqus_shortname: thelehhman
 
   # generate social links in footer
   social_links:
-    twitter: Zard
-    github:  Zard
-    linkedIn: in/Zard
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman
     # rss: rss
 # Build settings
 markdown: kramdown
-remote_theme: Zard/plainwhite-jekyll
+remote_theme: thelehhman/plainwhite-jekyll
 show_excerpts: true
 plugins:
   - jekyll-feed
